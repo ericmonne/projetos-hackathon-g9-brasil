@@ -166,7 +166,7 @@ code {
   width: auto;
   max-width: 120px;
   object-fit: contain;
-  filter: brightness(0) invert(1);
+  filter: brightness(0) invert();
   opacity: 0.85;
   transition: opacity var(--transition);
 }
